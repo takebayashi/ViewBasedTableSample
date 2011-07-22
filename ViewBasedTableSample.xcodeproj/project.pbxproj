@@ -21,12 +21,12 @@
 		2457EB2513D9BEA300A2FDF0 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		2457EB2613D9BEA300A2FDF0 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		2457EB2713D9BEA300A2FDF0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		2457EB2A13D9BEA300A2FDF0 /* ViewBasedTableSample-Info.plist */ = {isa = PBXFileReference; path = "ViewBasedTableSample-Info.plist"; sourceTree = "<group>"; };
+		2457EB2A13D9BEA300A2FDF0 /* ViewBasedTableSample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ViewBasedTableSample-Info.plist"; sourceTree = "<group>"; };
 		2457EB2C13D9BEA300A2FDF0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2457EB2E13D9BEA300A2FDF0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2457EB3013D9BEA300A2FDF0 /* ViewBasedTableSample-Prefix.pch */ = {isa = PBXFileReference; path = "ViewBasedTableSample-Prefix.pch"; sourceTree = "<group>"; };
+		2457EB3013D9BEA300A2FDF0 /* ViewBasedTableSample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ViewBasedTableSample-Prefix.pch"; sourceTree = "<group>"; };
 		2457EB3213D9BEA300A2FDF0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		2457EB3413D9BEA400A2FDF0 /* ViewBasedTableSampleAppDelegate.h */ = {isa = PBXFileReference; path = ViewBasedTableSampleAppDelegate.h; sourceTree = "<group>"; };
+		2457EB3413D9BEA400A2FDF0 /* ViewBasedTableSampleAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewBasedTableSampleAppDelegate.h; sourceTree = "<group>"; };
 		2457EB3513D9BEA400A2FDF0 /* ViewBasedTableSampleAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewBasedTableSampleAppDelegate.m; sourceTree = "<group>"; };
 		2457EB3813D9BEA400A2FDF0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */

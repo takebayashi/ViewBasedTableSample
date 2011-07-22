@@ -10,8 +10,10 @@
 
 @interface ViewBasedTableSampleAppDelegate : NSObject <NSApplicationDelegate> {
     NSWindow *window;
+    NSArrayController *arrayController;
 }
 
 @property (assign) IBOutlet NSWindow *window;
+@property (assign) IBOutlet NSArrayController *arrayController;
 
 @end

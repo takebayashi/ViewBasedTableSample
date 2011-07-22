@@ -11,10 +11,11 @@
 @implementation ViewBasedTableSampleAppDelegate
 
 @synthesize window;
+@synthesize arrayController;
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-    // Insert code here to initialize your application
+    [arrayController setContent:[[NSWorkspace sharedWorkspace] runningApplications]];
 }
 
 @end
